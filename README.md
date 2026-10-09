@@ -7,7 +7,7 @@ Explore the Titanic dataset to understand what factors influenced survival.
 Python, pandas, seaborn, matplotlib, scipy (Google Colab)
 
 ## What I did
-- Cleaned data (missing values in deck, age, embarked)
+- Cleaned data 
 - Visualized survival by gender, class, age and fare
 - Ran chi-square and t-tests to validate findings
 - Built a correlation heatmap
@@ -15,7 +15,7 @@ Python, pandas, seaborn, matplotlib, scipy (Google Colab)
 ## Key findings
 - Women had a much higher survival rate than men
 - Higher-class passengers survived more often
-- (add your own findings)
+
 
 ## Files
 - `CodeAlpha_EDA_Titanic.ipynb` - full analysis notebook
